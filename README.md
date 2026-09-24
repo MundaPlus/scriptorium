@@ -70,6 +70,10 @@ Chapter, scene and status are read from the filename (`ch03-scene02-WIP.md`) or 
 
 The source code is not public. Scriptorium is available for licensing, custom deployment or white-label adaptation. Get in touch via [munda.si](https://www.munda.si/#contact).
 
+## License
+
+Proprietary. © 2026 MUNDA PLUS d.o.o. All rights reserved. See [LICENSE](LICENSE).
+
 ## Author
 
 Built by [Marko Munda](https://www.munda.si/) · [Munda Plus](https://github.com/MundaPlus)
